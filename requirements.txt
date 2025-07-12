@@ -1,0 +1,15 @@
+# Curso de Python - Dependencias Básicas
+# Este archivo contiene las dependencias necesarias para ejecutar el curso
+
+# Python version requirement
+# Se recomienda Python 3.8 o superior
+
+# No se requieren dependencias externas para las lecciones básicas del curso
+# Todas las lecciones y ejercicios utilizan solo la biblioteca estándar de Python
+
+# Dependencias mínimas requeridas:
+# - Python 3.8+
+# - Biblioteca estándar de Python (incluida por defecto)
+
+# Nota: Este curso está diseñado para funcionar con Python estándar
+# sin necesidad de instalar paquetes externos adicionales. 

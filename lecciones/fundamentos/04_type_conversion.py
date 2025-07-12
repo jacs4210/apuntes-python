@@ -1,0 +1,5 @@
+birdthday_year = input("Ingresa tu año de nacimiento: ")
+print(type(birdthday_year))
+age = 2025 - int(birdthday_year)
+print(type(age))
+print("Tu edad es:", age)
