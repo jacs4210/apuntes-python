@@ -8,22 +8,40 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ## [Unreleased]
 
 ### Added
-- Documentación base del curso
-- README.md completo con instrucciones
-- requirements.txt con dependencias
-- .gitignore para Python
-- LICENSE MIT
-- CONTRIBUTING.md con guías de contribución
-- CHANGELOG.md para documentar cambios
+- N/A
 
 ### Changed
-- Mejorada la estructura del proyecto
-- Agregada documentación profesional
+- N/A
 
 ### Fixed
 - N/A
 
-## [1.0.0] - 2024-12-XX
+## [1.1.0] - 2025-07-12
+
+### Added
+- Documentación completa en español para todas las lecciones de fundamentos
+- Docstrings detallados con objetivos, conceptos clave y recursos adicionales
+- Comentarios explicativos para cada ejemplo de código
+- Ejemplos de salida esperada para mejor comprensión
+- Ejercicios prácticos adicionales en cada lección
+- Sección de conceptos importantes resumidos
+- Variaciones y experimentos opcionales para práctica
+- Enlaces a documentación oficial de Python
+- Fechas actualizadas a 2025-07-12
+
+### Changed
+- Mejorados nombres de variables para mayor claridad (price → precio, name → nombre, etc.)
+- Reestructurado código con secciones claramente definidas
+- Agregados ejemplos más prácticos y realistas
+- Mejorada legibilidad general del código
+- Actualizada documentación con formato consistente
+
+### Fixed
+- Corregidos errores de ortografía en comentarios
+- Mejorada consistencia en el estilo de documentación
+- Corregidos nombres de variables para seguir convenciones en español
+
+## [1.0.0] - 2025-07-11
 
 ### Added
 - Lección 01: Función print y strings básicos
