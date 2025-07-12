@@ -1,4 +1,4 @@
-# 🐍 Curso de Python - Fundamentos a Programación Orientada a Objetos
+# 🐍 Apuntes de Python - Fundamentos a Programación Orientada a Objetos
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -6,11 +6,11 @@
 
 ## 📖 Descripción
 
-Este repositorio contiene un curso completo de Python desde los fundamentos básicos hasta la programación orientada a objetos. Diseñado para principiantes y estudiantes que quieren aprender Python de manera práctica y progresiva.
+Este repositorio contiene apuntes completos de Python desde los fundamentos básicos hasta la programación orientada a objetos. Diseñado para principiantes y estudiantes que quieren aprender Python de manera práctica y progresiva.
 
 ## 🎯 Objetivos de Aprendizaje
 
-Al completar este curso, serás capaz de:
+Al completar estos apuntes, serás capaz de:
 
 - ✅ Comprender los fundamentos de Python
 - ✅ Manejar variables, tipos de datos y operadores
@@ -114,12 +114,12 @@ curso_python/
 │   └── referencias/
 ```
 
-## 🚀 Cómo Usar Este Curso
+## 🚀 Cómo Usar Estos Apuntes
 
 ### 1. **Clonar el Repositorio**
 ```bash
-git clone https://github.com/jacs4210/curso-python.git
-cd curso-python
+git clone https://github.com/jacs4210/apuntes-python.git
+cd apuntes-python
 ```
 
 ### 2. **Instalar Dependencias**
@@ -142,7 +142,7 @@ python lecciones/fundamentos/01_prints.py
 python ejercicios/basicos/01_hospital_app.py
 ```
 
-## 📚 Progreso del Curso
+## 📚 Progreso de los Apuntes
 
 ### **Módulo 1: Fundamentos (Lecciones 1-7)**
 - [x] Introducción a Python

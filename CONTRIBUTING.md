@@ -1,6 +1,6 @@
 # 🤝 Guía de Contribución
 
-¡Gracias por tu interés en contribuir al Curso de Python! Este documento te guiará a través del proceso de contribución.
+¡Gracias por tu interés en contribuir a los Apuntes de Python! Este documento te guiará a través del proceso de contribución.
 
 ## 📋 Tabla de Contenidos
 
@@ -16,11 +16,11 @@
 ### 1. **Fork del Repositorio**
 ```bash
 # Clona tu fork
-git clone https://github.com/tu-usuario/curso-python.git
-cd curso-python
+git clone https://github.com/tu-usuario/apuntes-python.git
+cd apuntes-python
 
 # Agrega el repositorio original como upstream
-git remote add upstream https://github.com/original-usuario/curso-python.git
+git remote add upstream https://github.com/original-usuario/apuntes-python.git
 ```
 
 ### 2. **Crea una Rama**
@@ -267,7 +267,7 @@ Si tienes preguntas sobre cómo contribuir:
 
 ## 🙏 Agradecimientos
 
-¡Gracias por contribuir al Curso de Python! Tu ayuda hace que este recurso sea mejor para todos los estudiantes.
+¡Gracias por contribuir a los Apuntes de Python! Tu ayuda hace que este recurso sea mejor para todos los estudiantes.
 
 ---
 

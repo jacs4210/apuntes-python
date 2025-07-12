@@ -20,6 +20,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ### Added
 - Documentación completa en español para todas las lecciones de fundamentos
+- Cambio de nombre del repositorio a "apuntes-python"
 - Docstrings detallados con objetivos, conceptos clave y recursos adicionales
 - Comentarios explicativos para cada ejemplo de código
 - Ejemplos de salida esperada para mejor comprensión
