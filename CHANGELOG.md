@@ -8,7 +8,8 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ## [Unreleased]
 
 ### Added
-- N/A
+- Nuevos ejercicios avanzados: 19_get_max_number.py y utils.py
+- Nuevas lecciones de programación avanzada: 24_modules.py y 25_packages.py
 
 ### Changed
 - N/A

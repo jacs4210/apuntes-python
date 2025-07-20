@@ -86,7 +86,9 @@ curso_python/
 │       ├── 20_functions.py
 │       ├── 21_exceptions.py
 │       ├── 22_classes.py
-│       └── 23_inherence.py
+│       ├── 23_inherence.py
+│       ├── 24_modules.py
+│       └── 25_packages.py
 ├── 📁 ejercicios/
 │   ├── basicos/
 │   │   ├── 01_hospital_app.py
@@ -107,7 +109,9 @@ curso_python/
 │       ├── 14_largest_number_list.py
 │       ├── 15_remove_duplicates.py
 │       ├── 16_number_in_letters.py
-│       └── 17_emoji_converter.py
+│       ├── 17_emoji_converter.py
+│       ├── 19_get_max_number.py
+│       └── utils.py
 ├── 📁 soluciones/
 ├── 📁 recursos/
 │   ├── cheatsheets/
