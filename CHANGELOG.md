@@ -16,6 +16,28 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ### Fixed
 - N/A
 
+## [1.2.0] - 2025-07-20
+
+### Added
+- Documentación completa en español para todas las lecciones de control de flujo (08 a 14)
+- Docstrings detallados con objetivos, conceptos clave y recursos adicionales
+- Comentarios explicativos para cada ejemplo de código
+- Ejemplos de salida esperada para mejor comprensión
+- Ejercicios prácticos adicionales en cada lección
+- Sección de conceptos importantes resumidos
+- Variaciones y experimentos opcionales para práctica
+- Enlaces a documentación oficial de Python
+- Fechas actualizadas a 2025-07-20
+
+### Changed
+- Mejorados nombres de variables y estructura de ejemplos para mayor claridad
+- Mejorada legibilidad general del código en la sección de control de flujo
+- Actualizada documentación con formato consistente
+
+### Fixed
+- Corregidos errores de ortografía y estilo en comentarios
+- Mejorada consistencia en el estilo de documentación
+
 ## [1.1.0] - 2025-07-12
 
 ### Added
