@@ -17,6 +17,12 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ### Fixed
 - N/A
 
+## [1.5.0] - 2025-08-01
+
+### Added
+- Documentación completa en español para todas los ejercicios desde basico, intermedio y avanzado.
+- Docstrings detallados con objetivos y conceptos clave.
+
 ## [1.4.0] - 2025-07-24
 
 ### Added
