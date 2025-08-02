@@ -111,6 +111,7 @@ curso_python/
 │       ├── 16_number_in_letters.py
 │       ├── 17_emoji_converter.py
 │       ├── 19_get_max_number.py
+│       ├── 20_generate_random_values.py
 │       └── utils.py
 ├── 📁 soluciones/
 ├── 📁 recursos/
@@ -255,4 +256,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ---
 
-*Última actualización: Julio 2025* 
+*Última actualización: Agosto 2025* 
